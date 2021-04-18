@@ -1,0 +1,29 @@
+.description {
+  padding: 50px 40px 0;
+  text-align: center;
+
+  height: 80%;
+}
+
+.avatar {
+  width: 50%;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.name {
+  margin-top: 40px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.tag {
+  margin-top: 15px;
+  color: rgb(180, 179, 179);
+  font-size: 18px;
+}
+
+.location {
+  color: rgb(180, 179, 179);
+  font-size: 20px;
+}
